@@ -1,4 +1,3 @@
-`#ffb6c1`
 # Claire's Portfolio
 
 ## Midterm Assignment - Light Through The Window
