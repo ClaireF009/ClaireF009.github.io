@@ -34,7 +34,7 @@
 
 <img width="784" alt="Screenshot 2023-04-05 at 11 34 42 AM" src="https://user-images.githubusercontent.com/126836050/230146129-bdab8c57-9b0b-46ca-9b00-c5dbf5d50cb8.png">
 
-###Initially, the program was having errors accessing the textboxes and textblock. After rebooting the program, the issue resolved itself.
+### Initially, the program was having errors accessing the textboxes and textblock. After rebooting the program, the issue resolved itself.
 
 <img width="584" alt="Screenshot 2023-03-30 at 4 39 46 PM" src="https://user-images.githubusercontent.com/126836050/230146350-14e126f7-bb2c-4cf0-82d0-110e1038afeb.png">
 
